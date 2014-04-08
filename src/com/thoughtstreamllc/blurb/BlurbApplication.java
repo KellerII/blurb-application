@@ -10,6 +10,6 @@ public class BlurbApplication extends Application{
 	@Override
 	public void onCreate() {
 		super.onCreate();
-		  Parse.initialize(this, "OYho7GcJYVqv3Ae9ll1m8SqrhKfFwye8OKd5lMS3", "IpBlvaC2ojxuzVsHl6e0T3BXxZaQfAGxjpDPs3MZ");
+		  Parse.initialize(this, "", "");
 		}
 }
